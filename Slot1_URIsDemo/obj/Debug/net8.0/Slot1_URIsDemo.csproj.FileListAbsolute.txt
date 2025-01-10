@@ -1,0 +1,15 @@
+D:\OneDrive\PRN222\Slot1_URIsDemo\bin\Debug\net8.0\Slot1_URIsDemo.exe
+D:\OneDrive\PRN222\Slot1_URIsDemo\bin\Debug\net8.0\Slot1_URIsDemo.deps.json
+D:\OneDrive\PRN222\Slot1_URIsDemo\bin\Debug\net8.0\Slot1_URIsDemo.runtimeconfig.json
+D:\OneDrive\PRN222\Slot1_URIsDemo\bin\Debug\net8.0\Slot1_URIsDemo.dll
+D:\OneDrive\PRN222\Slot1_URIsDemo\bin\Debug\net8.0\Slot1_URIsDemo.pdb
+D:\OneDrive\PRN222\Slot1_URIsDemo\obj\Debug\net8.0\Slot1_URIsDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\PRN222\Slot1_URIsDemo\obj\Debug\net8.0\Slot1_URIsDemo.AssemblyInfoInputs.cache
+D:\OneDrive\PRN222\Slot1_URIsDemo\obj\Debug\net8.0\Slot1_URIsDemo.AssemblyInfo.cs
+D:\OneDrive\PRN222\Slot1_URIsDemo\obj\Debug\net8.0\Slot1_URIsDemo.csproj.CoreCompileInputs.cache
+D:\OneDrive\PRN222\Slot1_URIsDemo\obj\Debug\net8.0\Slot1_URIsDemo.sourcelink.json
+D:\OneDrive\PRN222\Slot1_URIsDemo\obj\Debug\net8.0\Slot1_URIsDemo.dll
+D:\OneDrive\PRN222\Slot1_URIsDemo\obj\Debug\net8.0\refint\Slot1_URIsDemo.dll
+D:\OneDrive\PRN222\Slot1_URIsDemo\obj\Debug\net8.0\Slot1_URIsDemo.pdb
+D:\OneDrive\PRN222\Slot1_URIsDemo\obj\Debug\net8.0\Slot1_URIsDemo.genruntimeconfig.cache
+D:\OneDrive\PRN222\Slot1_URIsDemo\obj\Debug\net8.0\ref\Slot1_URIsDemo.dll

@@ -1,0 +1,15 @@
+D:\OneDrive\PRN222\Slot1_HttpClientClassDemo01\bin\Debug\net8.0\Slot1_HttpClientClassDemo01.exe
+D:\OneDrive\PRN222\Slot1_HttpClientClassDemo01\bin\Debug\net8.0\Slot1_HttpClientClassDemo01.deps.json
+D:\OneDrive\PRN222\Slot1_HttpClientClassDemo01\bin\Debug\net8.0\Slot1_HttpClientClassDemo01.runtimeconfig.json
+D:\OneDrive\PRN222\Slot1_HttpClientClassDemo01\bin\Debug\net8.0\Slot1_HttpClientClassDemo01.dll
+D:\OneDrive\PRN222\Slot1_HttpClientClassDemo01\bin\Debug\net8.0\Slot1_HttpClientClassDemo01.pdb
+D:\OneDrive\PRN222\Slot1_HttpClientClassDemo01\obj\Debug\net8.0\Slot1_HttpClientClassDemo01.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\PRN222\Slot1_HttpClientClassDemo01\obj\Debug\net8.0\Slot1_HttpClientClassDemo01.AssemblyInfoInputs.cache
+D:\OneDrive\PRN222\Slot1_HttpClientClassDemo01\obj\Debug\net8.0\Slot1_HttpClientClassDemo01.AssemblyInfo.cs
+D:\OneDrive\PRN222\Slot1_HttpClientClassDemo01\obj\Debug\net8.0\Slot1_HttpClientClassDemo01.csproj.CoreCompileInputs.cache
+D:\OneDrive\PRN222\Slot1_HttpClientClassDemo01\obj\Debug\net8.0\Slot1_HttpClientClassDemo01.sourcelink.json
+D:\OneDrive\PRN222\Slot1_HttpClientClassDemo01\obj\Debug\net8.0\Slot1_HttpClientClassDemo01.dll
+D:\OneDrive\PRN222\Slot1_HttpClientClassDemo01\obj\Debug\net8.0\refint\Slot1_HttpClientClassDemo01.dll
+D:\OneDrive\PRN222\Slot1_HttpClientClassDemo01\obj\Debug\net8.0\Slot1_HttpClientClassDemo01.pdb
+D:\OneDrive\PRN222\Slot1_HttpClientClassDemo01\obj\Debug\net8.0\Slot1_HttpClientClassDemo01.genruntimeconfig.cache
+D:\OneDrive\PRN222\Slot1_HttpClientClassDemo01\obj\Debug\net8.0\ref\Slot1_HttpClientClassDemo01.dll

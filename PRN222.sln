@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Slot1_WebRequest&WebRespons
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Slot1_URIsDemo", "Slot1_URIsDemo\Slot1_URIsDemo.csproj", "{89E5A1B7-200C-41EC-B72C-F8E7B557EC77}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Slot1_HttpClientClassDemo01", "Slot1_HttpClientClassDemo01\Slot1_HttpClientClassDemo01.csproj", "{4690779E-703E-4AC8-A01D-9B950B8EC1F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Slot1_HttpClientClassDemo02", "Slot1_HttpClientClassDemo02\Slot1_HttpClientClassDemo02.csproj", "{63183651-824C-4F54-8B54-327F880361E3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{89E5A1B7-200C-41EC-B72C-F8E7B557EC77}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{89E5A1B7-200C-41EC-B72C-F8E7B557EC77}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{89E5A1B7-200C-41EC-B72C-F8E7B557EC77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4690779E-703E-4AC8-A01D-9B950B8EC1F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4690779E-703E-4AC8-A01D-9B950B8EC1F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4690779E-703E-4AC8-A01D-9B950B8EC1F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4690779E-703E-4AC8-A01D-9B950B8EC1F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63183651-824C-4F54-8B54-327F880361E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63183651-824C-4F54-8B54-327F880361E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63183651-824C-4F54-8B54-327F880361E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63183651-824C-4F54-8B54-327F880361E3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
