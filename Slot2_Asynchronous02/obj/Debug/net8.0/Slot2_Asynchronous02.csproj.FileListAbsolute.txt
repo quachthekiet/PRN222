@@ -1,0 +1,15 @@
+D:\OneDrive\PRN222\Slot2_Asynchronous02\bin\Debug\net8.0\Slot2_Asynchronous02.exe
+D:\OneDrive\PRN222\Slot2_Asynchronous02\bin\Debug\net8.0\Slot2_Asynchronous02.deps.json
+D:\OneDrive\PRN222\Slot2_Asynchronous02\bin\Debug\net8.0\Slot2_Asynchronous02.runtimeconfig.json
+D:\OneDrive\PRN222\Slot2_Asynchronous02\bin\Debug\net8.0\Slot2_Asynchronous02.dll
+D:\OneDrive\PRN222\Slot2_Asynchronous02\bin\Debug\net8.0\Slot2_Asynchronous02.pdb
+D:\OneDrive\PRN222\Slot2_Asynchronous02\obj\Debug\net8.0\Slot2_Asynchronous02.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\PRN222\Slot2_Asynchronous02\obj\Debug\net8.0\Slot2_Asynchronous02.AssemblyInfoInputs.cache
+D:\OneDrive\PRN222\Slot2_Asynchronous02\obj\Debug\net8.0\Slot2_Asynchronous02.AssemblyInfo.cs
+D:\OneDrive\PRN222\Slot2_Asynchronous02\obj\Debug\net8.0\Slot2_Asynchronous02.csproj.CoreCompileInputs.cache
+D:\OneDrive\PRN222\Slot2_Asynchronous02\obj\Debug\net8.0\Slot2_Asynchronous02.sourcelink.json
+D:\OneDrive\PRN222\Slot2_Asynchronous02\obj\Debug\net8.0\Slot2_Asynchronous02.dll
+D:\OneDrive\PRN222\Slot2_Asynchronous02\obj\Debug\net8.0\refint\Slot2_Asynchronous02.dll
+D:\OneDrive\PRN222\Slot2_Asynchronous02\obj\Debug\net8.0\Slot2_Asynchronous02.pdb
+D:\OneDrive\PRN222\Slot2_Asynchronous02\obj\Debug\net8.0\Slot2_Asynchronous02.genruntimeconfig.cache
+D:\OneDrive\PRN222\Slot2_Asynchronous02\obj\Debug\net8.0\ref\Slot2_Asynchronous02.dll

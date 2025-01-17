@@ -1,0 +1,15 @@
+D:\OneDrive\PRN222\Slot2_UsingPLINQ01\bin\Debug\net8.0\Slot2_UsingPLINQ01.exe
+D:\OneDrive\PRN222\Slot2_UsingPLINQ01\bin\Debug\net8.0\Slot2_UsingPLINQ01.deps.json
+D:\OneDrive\PRN222\Slot2_UsingPLINQ01\bin\Debug\net8.0\Slot2_UsingPLINQ01.runtimeconfig.json
+D:\OneDrive\PRN222\Slot2_UsingPLINQ01\bin\Debug\net8.0\Slot2_UsingPLINQ01.dll
+D:\OneDrive\PRN222\Slot2_UsingPLINQ01\bin\Debug\net8.0\Slot2_UsingPLINQ01.pdb
+D:\OneDrive\PRN222\Slot2_UsingPLINQ01\obj\Debug\net8.0\Slot2_UsingPLINQ01.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\PRN222\Slot2_UsingPLINQ01\obj\Debug\net8.0\Slot2_UsingPLINQ01.AssemblyInfoInputs.cache
+D:\OneDrive\PRN222\Slot2_UsingPLINQ01\obj\Debug\net8.0\Slot2_UsingPLINQ01.AssemblyInfo.cs
+D:\OneDrive\PRN222\Slot2_UsingPLINQ01\obj\Debug\net8.0\Slot2_UsingPLINQ01.csproj.CoreCompileInputs.cache
+D:\OneDrive\PRN222\Slot2_UsingPLINQ01\obj\Debug\net8.0\Slot2_UsingPLINQ01.sourcelink.json
+D:\OneDrive\PRN222\Slot2_UsingPLINQ01\obj\Debug\net8.0\Slot2_UsingPLINQ01.dll
+D:\OneDrive\PRN222\Slot2_UsingPLINQ01\obj\Debug\net8.0\refint\Slot2_UsingPLINQ01.dll
+D:\OneDrive\PRN222\Slot2_UsingPLINQ01\obj\Debug\net8.0\Slot2_UsingPLINQ01.pdb
+D:\OneDrive\PRN222\Slot2_UsingPLINQ01\obj\Debug\net8.0\Slot2_UsingPLINQ01.genruntimeconfig.cache
+D:\OneDrive\PRN222\Slot2_UsingPLINQ01\obj\Debug\net8.0\ref\Slot2_UsingPLINQ01.dll

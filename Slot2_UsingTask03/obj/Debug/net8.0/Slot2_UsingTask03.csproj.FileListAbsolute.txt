@@ -1,0 +1,15 @@
+D:\OneDrive\PRN222\Slot2_UsingTask03\bin\Debug\net8.0\Slot2_UsingTask03.exe
+D:\OneDrive\PRN222\Slot2_UsingTask03\bin\Debug\net8.0\Slot2_UsingTask03.deps.json
+D:\OneDrive\PRN222\Slot2_UsingTask03\bin\Debug\net8.0\Slot2_UsingTask03.runtimeconfig.json
+D:\OneDrive\PRN222\Slot2_UsingTask03\bin\Debug\net8.0\Slot2_UsingTask03.dll
+D:\OneDrive\PRN222\Slot2_UsingTask03\bin\Debug\net8.0\Slot2_UsingTask03.pdb
+D:\OneDrive\PRN222\Slot2_UsingTask03\obj\Debug\net8.0\Slot2_UsingTask03.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\PRN222\Slot2_UsingTask03\obj\Debug\net8.0\Slot2_UsingTask03.AssemblyInfoInputs.cache
+D:\OneDrive\PRN222\Slot2_UsingTask03\obj\Debug\net8.0\Slot2_UsingTask03.AssemblyInfo.cs
+D:\OneDrive\PRN222\Slot2_UsingTask03\obj\Debug\net8.0\Slot2_UsingTask03.csproj.CoreCompileInputs.cache
+D:\OneDrive\PRN222\Slot2_UsingTask03\obj\Debug\net8.0\Slot2_UsingTask03.sourcelink.json
+D:\OneDrive\PRN222\Slot2_UsingTask03\obj\Debug\net8.0\Slot2_UsingTask03.dll
+D:\OneDrive\PRN222\Slot2_UsingTask03\obj\Debug\net8.0\refint\Slot2_UsingTask03.dll
+D:\OneDrive\PRN222\Slot2_UsingTask03\obj\Debug\net8.0\Slot2_UsingTask03.pdb
+D:\OneDrive\PRN222\Slot2_UsingTask03\obj\Debug\net8.0\Slot2_UsingTask03.genruntimeconfig.cache
+D:\OneDrive\PRN222\Slot2_UsingTask03\obj\Debug\net8.0\ref\Slot2_UsingTask03.dll

@@ -1,0 +1,15 @@
+D:\OneDrive\PRN222\Slot1_TCPClient\bin\Debug\net8.0\Slot1_TCPClient.exe
+D:\OneDrive\PRN222\Slot1_TCPClient\bin\Debug\net8.0\Slot1_TCPClient.deps.json
+D:\OneDrive\PRN222\Slot1_TCPClient\bin\Debug\net8.0\Slot1_TCPClient.runtimeconfig.json
+D:\OneDrive\PRN222\Slot1_TCPClient\bin\Debug\net8.0\Slot1_TCPClient.dll
+D:\OneDrive\PRN222\Slot1_TCPClient\bin\Debug\net8.0\Slot1_TCPClient.pdb
+D:\OneDrive\PRN222\Slot1_TCPClient\obj\Debug\net8.0\Slot1_TCPClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\PRN222\Slot1_TCPClient\obj\Debug\net8.0\Slot1_TCPClient.AssemblyInfoInputs.cache
+D:\OneDrive\PRN222\Slot1_TCPClient\obj\Debug\net8.0\Slot1_TCPClient.AssemblyInfo.cs
+D:\OneDrive\PRN222\Slot1_TCPClient\obj\Debug\net8.0\Slot1_TCPClient.csproj.CoreCompileInputs.cache
+D:\OneDrive\PRN222\Slot1_TCPClient\obj\Debug\net8.0\Slot1_TCPClient.sourcelink.json
+D:\OneDrive\PRN222\Slot1_TCPClient\obj\Debug\net8.0\Slot1_TCPClient.dll
+D:\OneDrive\PRN222\Slot1_TCPClient\obj\Debug\net8.0\refint\Slot1_TCPClient.dll
+D:\OneDrive\PRN222\Slot1_TCPClient\obj\Debug\net8.0\Slot1_TCPClient.pdb
+D:\OneDrive\PRN222\Slot1_TCPClient\obj\Debug\net8.0\Slot1_TCPClient.genruntimeconfig.cache
+D:\OneDrive\PRN222\Slot1_TCPClient\obj\Debug\net8.0\ref\Slot1_TCPClient.dll

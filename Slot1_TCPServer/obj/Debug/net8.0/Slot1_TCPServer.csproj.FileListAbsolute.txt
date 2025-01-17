@@ -1,0 +1,15 @@
+D:\OneDrive\PRN222\Slot1_TCPServer\bin\Debug\net8.0\Slot1_TCPServer.exe
+D:\OneDrive\PRN222\Slot1_TCPServer\bin\Debug\net8.0\Slot1_TCPServer.deps.json
+D:\OneDrive\PRN222\Slot1_TCPServer\bin\Debug\net8.0\Slot1_TCPServer.runtimeconfig.json
+D:\OneDrive\PRN222\Slot1_TCPServer\bin\Debug\net8.0\Slot1_TCPServer.dll
+D:\OneDrive\PRN222\Slot1_TCPServer\bin\Debug\net8.0\Slot1_TCPServer.pdb
+D:\OneDrive\PRN222\Slot1_TCPServer\obj\Debug\net8.0\Slot1_TCPServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\PRN222\Slot1_TCPServer\obj\Debug\net8.0\Slot1_TCPServer.AssemblyInfoInputs.cache
+D:\OneDrive\PRN222\Slot1_TCPServer\obj\Debug\net8.0\Slot1_TCPServer.AssemblyInfo.cs
+D:\OneDrive\PRN222\Slot1_TCPServer\obj\Debug\net8.0\Slot1_TCPServer.csproj.CoreCompileInputs.cache
+D:\OneDrive\PRN222\Slot1_TCPServer\obj\Debug\net8.0\Slot1_TCPServer.sourcelink.json
+D:\OneDrive\PRN222\Slot1_TCPServer\obj\Debug\net8.0\Slot1_TCPServer.dll
+D:\OneDrive\PRN222\Slot1_TCPServer\obj\Debug\net8.0\refint\Slot1_TCPServer.dll
+D:\OneDrive\PRN222\Slot1_TCPServer\obj\Debug\net8.0\Slot1_TCPServer.pdb
+D:\OneDrive\PRN222\Slot1_TCPServer\obj\Debug\net8.0\Slot1_TCPServer.genruntimeconfig.cache
+D:\OneDrive\PRN222\Slot1_TCPServer\obj\Debug\net8.0\ref\Slot1_TCPServer.dll
