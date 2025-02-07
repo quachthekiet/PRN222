@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Slot2_UsingPLINQ01")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e34724d3c876388e1c653db34f41504071768ad0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dbf88212d320bea5ce6bcf07eb776742d8381926")]
 [assembly: System.Reflection.AssemblyProductAttribute("Slot2_UsingPLINQ01")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Slot2_UsingPLINQ01")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
