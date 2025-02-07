@@ -33,7 +33,7 @@ namespace Slot2_UsingPLINQ02
         }
         static void Main(string[] args)
         {
-            var limit = 2_000_000;
+            var limit = 20_000_000;
             var numbers = Enumerable.Range(0, limit).ToList();
 
             var watch = Stopwatch.StartNew();

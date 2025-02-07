@@ -12,6 +12,7 @@ namespace Slot1_TCPClient
             {
                 TcpClient client = new TcpClient(server, port);
                 Console.Title = "Client Application";
+                Console.WriteLine($"Connected to server: {client.Client.RemoteEndPoint.ToString()}");
                 NetworkStream stream = client.GetStream();
                 while(true)
                 {
@@ -29,7 +30,7 @@ namespace Slot1_TCPClient
                     data = new byte[256];
                     bytes = stream.Read(data, 0, data.Length);
                     responseData = System.Text.Encoding.ASCII.GetString(data, 0, bytes);
-                    Console.WriteLine($"{client.Client.RemoteEndPoint.ToString()}, Received: {responseData}");
+                    Console.WriteLine($"Received: {responseData}");
                 }
 
             }
