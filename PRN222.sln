@@ -35,13 +35,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Slot2_Asynchronous02", "Slo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Slot2_Asynchronous03", "Slot2_Asynchronous03\Slot2_Asynchronous03.csproj", "{F0061D50-E383-40DB-99C0-879E74AFC914}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Slot3_SingleResponsabilityPrincipleDemo", "Slot3_SingleResponsabilityPrincipleDemo\Slot3_SingleResponsabilityPrincipleDemo.csproj", "{0F6F9613-203D-40B0-A433-136D644DD819}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Slot3_SingleResponsabilityPrincipleDemo", "Slot3_SingleResponsabilityPrincipleDemo\Slot3_SingleResponsabilityPrincipleDemo.csproj", "{0F6F9613-203D-40B0-A433-136D644DD819}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Slot3_OpenClosedPrincipleDemo", "Slot3_OpenClosedPrincipleDemo\Slot3_OpenClosedPrincipleDemo.csproj", "{3055355B-1635-4814-9486-BB964116F5B5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Slot3_OpenClosedPrincipleDemo", "Slot3_OpenClosedPrincipleDemo\Slot3_OpenClosedPrincipleDemo.csproj", "{3055355B-1635-4814-9486-BB964116F5B5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Slot3_LiskovSubstitutionPrincipleDemo", "Slot3_LiskovSubstitutionPrincipleDemo\Slot3_LiskovSubstitutionPrincipleDemo.csproj", "{BFE4B210-8318-4B1B-8FE0-4A9C7F31F64E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Slot3_LiskovSubstitutionPrincipleDemo", "Slot3_LiskovSubstitutionPrincipleDemo\Slot3_LiskovSubstitutionPrincipleDemo.csproj", "{BFE4B210-8318-4B1B-8FE0-4A9C7F31F64E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Slot3_InterfaceSegregationPrincipleDemo", "Slot3_InterfaceSegregationPrincipleDemo\Slot3_InterfaceSegregationPrincipleDemo.csproj", "{803000DB-2062-4BBA-B793-9B7A4292412A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Slot3_InterfaceSegregationPrincipleDemo", "Slot3_InterfaceSegregationPrincipleDemo\Slot3_InterfaceSegregationPrincipleDemo.csproj", "{803000DB-2062-4BBA-B793-9B7A4292412A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Slot3_IoCPatternDemo", "Slot3_IoCPatternDemo\Slot3_IoCPatternDemo.csproj", "{96094D54-0238-4A97-8E0D-3E6585B55FCA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -129,6 +131,10 @@ Global
 		{803000DB-2062-4BBA-B793-9B7A4292412A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{803000DB-2062-4BBA-B793-9B7A4292412A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{803000DB-2062-4BBA-B793-9B7A4292412A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96094D54-0238-4A97-8E0D-3E6585B55FCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96094D54-0238-4A97-8E0D-3E6585B55FCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96094D54-0238-4A97-8E0D-3E6585B55FCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96094D54-0238-4A97-8E0D-3E6585B55FCA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
