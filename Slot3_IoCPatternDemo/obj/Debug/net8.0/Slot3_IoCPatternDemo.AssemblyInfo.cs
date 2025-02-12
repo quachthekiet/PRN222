@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Slot3_IoCPatternDemo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bfe69522eeef103afa47987a20687c8ba4446e13")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+78a710c262037d3c251a60fd50f4cd7b44954821")]
 [assembly: System.Reflection.AssemblyProductAttribute("Slot3_IoCPatternDemo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Slot3_IoCPatternDemo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

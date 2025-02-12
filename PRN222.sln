@@ -45,6 +45,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Slot3_InterfaceSegregationP
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Slot3_IoCPatternDemo", "Slot3_IoCPatternDemo\Slot3_IoCPatternDemo.csproj", "{96094D54-0238-4A97-8E0D-3E6585B55FCA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Slot3_ServiceCollectionClassDemo", "Slot3_ServiceCollectionClassDemo\Slot3_ServiceCollectionClassDemo.csproj", "{D510ECA3-6EE5-43E8-A91A-156EF47073C2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -135,6 +137,10 @@ Global
 		{96094D54-0238-4A97-8E0D-3E6585B55FCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{96094D54-0238-4A97-8E0D-3E6585B55FCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{96094D54-0238-4A97-8E0D-3E6585B55FCA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D510ECA3-6EE5-43E8-A91A-156EF47073C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D510ECA3-6EE5-43E8-A91A-156EF47073C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D510ECA3-6EE5-43E8-A91A-156EF47073C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D510ECA3-6EE5-43E8-A91A-156EF47073C2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
