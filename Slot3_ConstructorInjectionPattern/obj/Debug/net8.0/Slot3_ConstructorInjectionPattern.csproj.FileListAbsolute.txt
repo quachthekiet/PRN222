@@ -1,0 +1,15 @@
+D:\OneDrive\PRN222\Slot3_ConstructorInjectionPattern\bin\Debug\net8.0\Slot3_ConstructorInjectionPattern.exe
+D:\OneDrive\PRN222\Slot3_ConstructorInjectionPattern\bin\Debug\net8.0\Slot3_ConstructorInjectionPattern.deps.json
+D:\OneDrive\PRN222\Slot3_ConstructorInjectionPattern\bin\Debug\net8.0\Slot3_ConstructorInjectionPattern.runtimeconfig.json
+D:\OneDrive\PRN222\Slot3_ConstructorInjectionPattern\bin\Debug\net8.0\Slot3_ConstructorInjectionPattern.dll
+D:\OneDrive\PRN222\Slot3_ConstructorInjectionPattern\bin\Debug\net8.0\Slot3_ConstructorInjectionPattern.pdb
+D:\OneDrive\PRN222\Slot3_ConstructorInjectionPattern\obj\Debug\net8.0\Slot3_ConstructorInjectionPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\PRN222\Slot3_ConstructorInjectionPattern\obj\Debug\net8.0\Slot3_ConstructorInjectionPattern.AssemblyInfoInputs.cache
+D:\OneDrive\PRN222\Slot3_ConstructorInjectionPattern\obj\Debug\net8.0\Slot3_ConstructorInjectionPattern.AssemblyInfo.cs
+D:\OneDrive\PRN222\Slot3_ConstructorInjectionPattern\obj\Debug\net8.0\Slot3_ConstructorInjectionPattern.csproj.CoreCompileInputs.cache
+D:\OneDrive\PRN222\Slot3_ConstructorInjectionPattern\obj\Debug\net8.0\Slot3_ConstructorInjectionPattern.sourcelink.json
+D:\OneDrive\PRN222\Slot3_ConstructorInjectionPattern\obj\Debug\net8.0\Slot3_ConstructorInjectionPattern.dll
+D:\OneDrive\PRN222\Slot3_ConstructorInjectionPattern\obj\Debug\net8.0\refint\Slot3_ConstructorInjectionPattern.dll
+D:\OneDrive\PRN222\Slot3_ConstructorInjectionPattern\obj\Debug\net8.0\Slot3_ConstructorInjectionPattern.pdb
+D:\OneDrive\PRN222\Slot3_ConstructorInjectionPattern\obj\Debug\net8.0\Slot3_ConstructorInjectionPattern.genruntimeconfig.cache
+D:\OneDrive\PRN222\Slot3_ConstructorInjectionPattern\obj\Debug\net8.0\ref\Slot3_ConstructorInjectionPattern.dll

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ltg+5pmTb4X/G4V+ojHaZyLBIjsgG2Pe0QV15/joozGzATMrSuurXo0gXjiQY0zmQfgYYp9s+n+qxPrHi7V26A==",
+  "success": true,
+  "projectFilePath": "D:\\OneDrive\\PRN222\\Slot3_MethodInjectionPatternDemo\\Slot3_MethodInjectionPatternDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.2\\microsoft.extensions.dependencyinjection.9.0.2.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.2\\microsoft.extensions.dependencyinjection.abstractions.9.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

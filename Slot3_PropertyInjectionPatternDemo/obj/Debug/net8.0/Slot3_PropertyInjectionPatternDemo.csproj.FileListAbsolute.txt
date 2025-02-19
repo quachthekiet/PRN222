@@ -1,0 +1,15 @@
+D:\OneDrive\PRN222\Slot3_PropertyInjectionPatternDemo\bin\Debug\net8.0\Slot3_PropertyInjectionPatternDemo.exe
+D:\OneDrive\PRN222\Slot3_PropertyInjectionPatternDemo\bin\Debug\net8.0\Slot3_PropertyInjectionPatternDemo.deps.json
+D:\OneDrive\PRN222\Slot3_PropertyInjectionPatternDemo\bin\Debug\net8.0\Slot3_PropertyInjectionPatternDemo.runtimeconfig.json
+D:\OneDrive\PRN222\Slot3_PropertyInjectionPatternDemo\bin\Debug\net8.0\Slot3_PropertyInjectionPatternDemo.dll
+D:\OneDrive\PRN222\Slot3_PropertyInjectionPatternDemo\bin\Debug\net8.0\Slot3_PropertyInjectionPatternDemo.pdb
+D:\OneDrive\PRN222\Slot3_PropertyInjectionPatternDemo\obj\Debug\net8.0\Slot3_PropertyInjectionPatternDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\PRN222\Slot3_PropertyInjectionPatternDemo\obj\Debug\net8.0\Slot3_PropertyInjectionPatternDemo.AssemblyInfoInputs.cache
+D:\OneDrive\PRN222\Slot3_PropertyInjectionPatternDemo\obj\Debug\net8.0\Slot3_PropertyInjectionPatternDemo.AssemblyInfo.cs
+D:\OneDrive\PRN222\Slot3_PropertyInjectionPatternDemo\obj\Debug\net8.0\Slot3_PropertyInjectionPatternDemo.csproj.CoreCompileInputs.cache
+D:\OneDrive\PRN222\Slot3_PropertyInjectionPatternDemo\obj\Debug\net8.0\Slot3_PropertyInjectionPatternDemo.sourcelink.json
+D:\OneDrive\PRN222\Slot3_PropertyInjectionPatternDemo\obj\Debug\net8.0\Slot3_PropertyInjectionPatternDemo.dll
+D:\OneDrive\PRN222\Slot3_PropertyInjectionPatternDemo\obj\Debug\net8.0\refint\Slot3_PropertyInjectionPatternDemo.dll
+D:\OneDrive\PRN222\Slot3_PropertyInjectionPatternDemo\obj\Debug\net8.0\Slot3_PropertyInjectionPatternDemo.pdb
+D:\OneDrive\PRN222\Slot3_PropertyInjectionPatternDemo\obj\Debug\net8.0\Slot3_PropertyInjectionPatternDemo.genruntimeconfig.cache
+D:\OneDrive\PRN222\Slot3_PropertyInjectionPatternDemo\obj\Debug\net8.0\ref\Slot3_PropertyInjectionPatternDemo.dll
