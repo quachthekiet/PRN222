@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\OneDrive\\PRN222\\Slot6_ToDoList\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Slot6_ToDoList.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Slot6_ToDoList.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\OneDrive\\PRN222\\Slot6_ToDoList\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "D:\\OneDrive\\PRN222\\Slot6_ToDoList\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\OneDrive\\PRN222\\Slot6_ToDoList\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\OneDrive\\PRN222\\Slot6_ToDoList\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Slot6_ToDoList.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Slot6_ToDoList.props",
+      "PackagePath": "build\\Slot6_ToDoList.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Slot6_ToDoList.props",
+      "PackagePath": "buildMultiTargeting\\Slot6_ToDoList.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Slot6_ToDoList.props",
+      "PackagePath": "buildTransitive\\Slot6_ToDoList.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

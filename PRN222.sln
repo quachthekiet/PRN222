@@ -51,13 +51,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Slot4_Demo01", "Slot4_Demo0
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Slot4_Demo03", "Slot4_Demo03\Slot4_Demo03.csproj", "{0592D652-EBB8-4495-B98F-B56E7925EEE8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Slot3_ConstructorInjectionPattern", "Slot3_ConstructorInjectionPattern\Slot3_ConstructorInjectionPattern.csproj", "{152EB765-368D-487E-B09A-97F8CF90DCC2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Slot3_ConstructorInjectionPattern", "Slot3_ConstructorInjectionPattern\Slot3_ConstructorInjectionPattern.csproj", "{152EB765-368D-487E-B09A-97F8CF90DCC2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Slot3_PropertyInjectionPatternDemo", "Slot3_PropertyInjectionPatternDemo\Slot3_PropertyInjectionPatternDemo.csproj", "{6EC49260-6F9D-49AE-BAF7-6A135BA46ED1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Slot3_PropertyInjectionPatternDemo", "Slot3_PropertyInjectionPatternDemo\Slot3_PropertyInjectionPatternDemo.csproj", "{6EC49260-6F9D-49AE-BAF7-6A135BA46ED1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Slot3_MethodInjectionPatternDemo", "Slot3_MethodInjectionPatternDemo\Slot3_MethodInjectionPatternDemo.csproj", "{09AFFF5B-69C2-4DF7-9421-ECDF1D91F867}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Slot3_MethodInjectionPatternDemo", "Slot3_MethodInjectionPatternDemo\Slot3_MethodInjectionPatternDemo.csproj", "{09AFFF5B-69C2-4DF7-9421-ECDF1D91F867}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Slot3_AmbientContextDemo", "Slot3_AmbientContextDemo\Slot3_AmbientContextDemo.csproj", "{9401B543-6606-430F-9B8D-F71752EDCF90}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Slot3_AmbientContextDemo", "Slot3_AmbientContextDemo\Slot3_AmbientContextDemo.csproj", "{9401B543-6606-430F-9B8D-F71752EDCF90}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Slot6_ToDoList", "Slot6_ToDoList\Slot6_ToDoList.csproj", "{B4A9EADC-75EA-4E03-AD5D-BD6E78975E27}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Slot7_SignalRChat", "Slot7_SignalRChat\Slot7_SignalRChat.csproj", "{3BBAFE9A-EADA-4684-A4A6-10B1C0B04792}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{4877B51C-1CD5-4F86-AB96-54626E58DE67}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -177,6 +183,18 @@ Global
 		{9401B543-6606-430F-9B8D-F71752EDCF90}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9401B543-6606-430F-9B8D-F71752EDCF90}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9401B543-6606-430F-9B8D-F71752EDCF90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4A9EADC-75EA-4E03-AD5D-BD6E78975E27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4A9EADC-75EA-4E03-AD5D-BD6E78975E27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4A9EADC-75EA-4E03-AD5D-BD6E78975E27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4A9EADC-75EA-4E03-AD5D-BD6E78975E27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BBAFE9A-EADA-4684-A4A6-10B1C0B04792}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BBAFE9A-EADA-4684-A4A6-10B1C0B04792}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BBAFE9A-EADA-4684-A4A6-10B1C0B04792}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BBAFE9A-EADA-4684-A4A6-10B1C0B04792}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4877B51C-1CD5-4F86-AB96-54626E58DE67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4877B51C-1CD5-4F86-AB96-54626E58DE67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4877B51C-1CD5-4F86-AB96-54626E58DE67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4877B51C-1CD5-4F86-AB96-54626E58DE67}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

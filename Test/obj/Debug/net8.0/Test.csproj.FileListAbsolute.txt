@@ -1,0 +1,15 @@
+D:\OneDrive\PRN222\Test\bin\Debug\net8.0\Test.exe
+D:\OneDrive\PRN222\Test\bin\Debug\net8.0\Test.deps.json
+D:\OneDrive\PRN222\Test\bin\Debug\net8.0\Test.runtimeconfig.json
+D:\OneDrive\PRN222\Test\bin\Debug\net8.0\Test.dll
+D:\OneDrive\PRN222\Test\bin\Debug\net8.0\Test.pdb
+D:\OneDrive\PRN222\Test\obj\Debug\net8.0\Test.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\PRN222\Test\obj\Debug\net8.0\Test.AssemblyInfoInputs.cache
+D:\OneDrive\PRN222\Test\obj\Debug\net8.0\Test.AssemblyInfo.cs
+D:\OneDrive\PRN222\Test\obj\Debug\net8.0\Test.csproj.CoreCompileInputs.cache
+D:\OneDrive\PRN222\Test\obj\Debug\net8.0\Test.sourcelink.json
+D:\OneDrive\PRN222\Test\obj\Debug\net8.0\Test.dll
+D:\OneDrive\PRN222\Test\obj\Debug\net8.0\refint\Test.dll
+D:\OneDrive\PRN222\Test\obj\Debug\net8.0\Test.pdb
+D:\OneDrive\PRN222\Test\obj\Debug\net8.0\Test.genruntimeconfig.cache
+D:\OneDrive\PRN222\Test\obj\Debug\net8.0\ref\Test.dll
